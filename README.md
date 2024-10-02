@@ -1,6 +1,6 @@
 # Student Grades Program
 
-My Java program manages a list of students and their grades, using `Hash Map` and an `Array List`.
+My Java program manages a list of students and their grades for different subjects, using a `Hash Map` and an `Array List`. The results of the program are visible in the Terminal, under the `Output` section. 
 
 ## Two Topics Covered
 - HashMap
